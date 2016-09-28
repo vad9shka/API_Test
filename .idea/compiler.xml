@@ -25,6 +25,8 @@
         <module name="API_Test" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="API_Test" target="1.7" />
+    </bytecodeTargetLevel>
   </component>
 </project>
-
